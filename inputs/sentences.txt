@@ -1,0 +1,4 @@
+Este projeto desenvolve um chatbot capaz de responder perguntas baseadas em documentos PDF.
+O modelo utiliza embeddings para transformar o conteúdo textual em vetores de contexto.
+Busca vetorial com FAISS ou ChromaDB permite localizar respostas relevantes com rapidez.
+ChatGPT é integrado para gerar respostas com base nos trechos encontrados.
